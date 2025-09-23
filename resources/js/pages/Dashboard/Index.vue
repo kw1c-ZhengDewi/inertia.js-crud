@@ -4,6 +4,7 @@ import DefaultLayout from '@/Layouts/DefaultLayout.vue'
 
 <template>
   <DefaultLayout>
+
   </DefaultLayout>
 </template>
 
