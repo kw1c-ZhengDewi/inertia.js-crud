@@ -4,11 +4,13 @@ import DefaultLayout from '@/Layouts/DefaultLayout.vue'
 
 <template>
   <DefaultLayout>
+    <h1>Blog title here</h1>
 
+    <p>Article content goes here</p>
   </DefaultLayout>
 </template>
 
-<!-- styling in vanilla CSS -->
-<style>
+<!-- Custom CSS  -->
+<style scoped>
 
 </style>

@@ -7,7 +7,7 @@ import DefaultLayout from '@/Layouts/DefaultLayout.vue'
   </DefaultLayout>
 </template>
 
-<!-- styling in vanilla CSS -->
-<style>
+<!-- Custom CSS  -->
+<style scoped>
 
 </style>

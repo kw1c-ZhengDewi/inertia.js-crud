@@ -1,13 +1,12 @@
 <script setup>
-import DefaultLayout from '@/Layouts/DefaultLayout.vue'
+import { route } from 'ziggy-js'
 </script>
 
 <template>
-  <DefaultLayout>
-  </DefaultLayout>
+
 </template>
 
 <!-- Custom CSS  -->
 <style scoped>
-
+/* Optional: add custom styles if needed */
 </style>
